@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--kbt561ewydg2t.com/sitemap.xml
